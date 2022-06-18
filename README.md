@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=SON%20JI%20HYUN&![ex_screenshot](macadamia2.png)&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=WELCOME%20&fontSize=70&desc=SON%20JIHYUN%20GitHub%20Profile%20&fontAlign=75&descAlign=80&descAlignY=75&animation=fadeIn)
 
 
-📝 STUDY 📝
+📝 Learning 📝
 
 ![Shields.io](https://img.shields.io/badge/PHP-777BB4?style=round-square&logo=PHP&logoColor=white)
 ![Shields.io](https://img.shields.io/badge/JavaScript-F7DF1E?style=round-square&logo=JavaScript&logoColor=white)
