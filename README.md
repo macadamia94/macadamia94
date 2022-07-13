@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=WELCOME%20&fontSize=70&desc=SON%20JIHYUN%20GitHub%20Profile%20&fontAlign=75&descAlign=80&descAlignY=75&animation=fadeIn)
 
-
+<p align="center">
 📝 Learning 📝
 
 ![Shields.io](https://img.shields.io/badge/PHP-777BB4?style=round-square&logo=PHP&logoColor=white)
@@ -20,3 +20,4 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmacadamia94&count_bg=%23555555&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macadamia94&layout=compact&theme=dark)
+</p>
