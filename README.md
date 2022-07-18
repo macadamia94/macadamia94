@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=WELCOME%20&fontSize=70&desc=SON%20JIHYUN%20GitHub%20Profile%20&fontAlign=75&descAlign=80&descAlignY=75&animation=fadeIn)
 
 
-<p align="center">📝 Learning 📝</p>
+<p align="center">📝 Learning </p>
 
 <p align="center">
 <img alt="PHP" src ="https://img.shields.io/badge/PHP-777BB4.svg?style=round-square&logo=PHP&logoColor=white"/>
@@ -13,13 +13,21 @@
 </p>
 
 
-<p align="center">🛠Tools🛠</p>
+<p align="center">🛠 Tools </p>
 
 <p align="center">
 <img alt="Visual%20Studio%20Code" src ="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=round-square&logo=PHP&logoColor=white"/>
 </p>
 
-<p align="center">⭐GitHub Stats ⭐</p>
+
+<p align="center">📚 Frameworks <p>
+
+<p align="center">  
+<img alt="Bootstrap" src ="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=round-square&logo=bootstrap&logoColor=white"/>
+</p>
+
+
+<p align="center">⭐ GitHub Stats ⭐</p>
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
