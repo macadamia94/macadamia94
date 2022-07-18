@@ -8,7 +8,8 @@
 <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=round-square&logo=PHP&logoColor=white"/>
 <img alt="HTML" src ="https://img.shields.io/badge/HTML-E34F26.svg?style=round-square&logo=PHP&logoColor=white"/>
 <img alt="CSS" src ="https://img.shields.io/badge/CSS-1572B6.svg?style=round-square&logo=PHP&logoColor=white"/>
-<img alt="MySQL" src ="https://img.shields.io/badge/MariaDB-003545.svg?style=round-square&logo=PHP&logoColor=white"/>
+<img alt="MySQL" src ="https://img.shields.io/badge/MySQL-003545.svg?style=round-square&logo=PHP&logoColor=white"/>
+<img alt="Vue.js" src ="https://img.shields.io/badge/vuejs-%2335495e.svg?style=round-square&logo=vuedotjs&logoColor=%234FC08D"/>
 </p>
 
 
